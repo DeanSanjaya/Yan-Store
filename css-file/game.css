@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #272730;
+}
+
+
+.footer{
+    font-size: 15px;
+    background-color: #272730;
+}
+
+.parent{
+    padding-top: 30px;
+    background-color: #32323e;
+    height: 602px;
+}
+
+.child{
+    background-color: #272730;
+    padding-top: 10px;
+    height: 500px;
+}
+
+.tipe{
+    padding-top: 20px;
+}

@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #272730;
+}
+
+.carousel{
+    background-color: #32323e;
+    padding-top: 20px;
+}
+
+.footer{
+    font-size: 15px;
+    background-color: #272730;
+}
+
+.card{
+    background-color: #272730;
+    color: #fff;
+}
+
+.btn{
+    padding-left: 100px;
+    padding-right: 120px;
+}
+
+.row{
+    padding-top: 20px;
+}
